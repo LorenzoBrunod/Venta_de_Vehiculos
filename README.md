@@ -10,7 +10,7 @@ En esta etapa se abordaron distintas problemáticas presentes en las bases de da
 
 - validación y corrección de tipos de datos,
 - transformación de columnas desde formato **texto a fecha (`DATE`)**,
-- transformación de columnas numéricas desde texto a **`NUMERIC` o `INTEGER`**,
+- transformación de columnas numéricas desde texto a **`NUMERIC`,
 - revisión y depuración de registros duplicados,
 - normalización de signos en columnas monetarias,
 - análisis de valores nulos,
